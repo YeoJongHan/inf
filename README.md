@@ -1,25 +1,25 @@
 ## inf
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/YeoJongHan/inf/main/nicholas.jpg'); font-size:10vm]{x20}Humble abode$}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 0em; font-size:10vm]{x6e}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 1em; font-size:10vm]{x69}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 2em; font-size:10vm]{x63}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 3em; font-size:10vm]{x68}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 4em; font-size:10vm]{x6f}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 5em; font-size:10vm]{x6c}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 6em; font-size:10vm]{x61}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 7em; font-size:10vm]{x73}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 8em; font-size:10vm]{x20}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 9em; font-size:10vm]{x69}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 10em; font-size:10vm]{x73}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 11em; font-size:10vm]{x20}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 12em; font-size:10vm]{x62}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 13em; font-size:10vm]{x69}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 14em; font-size:10vm]{x74}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 15em; font-size:10vm]{x63}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 16em; font-size:10vm]{x68}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 17em; font-size:10vm]{x6c}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 18em; font-size:10vm]{x65}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 19em; font-size:10vm]{x73}}
-{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 20em; font-size:10vm]{x73}}
+\ce{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/YeoJongHan/inf/main/nicholas.jpg'); font-size:10vm]{x20}Humble abode$}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 7.0em; background-color: #f6f8fa;]{x6e}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 7.5em; background-color: #f6f8fa;]{x69}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 8.0em; background-color: #f6f8fa;]{x63}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 8.5em; background-color: #f6f8fa;]{x68}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 9.0em; background-color: #f6f8fa;]{x6f}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 9.5em; background-color: #f6f8fa;]{x6c}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 10.0em; background-color: #f6f8fa;]{x61}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 10.5em; background-color: #f6f8fa;]{x73}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 11.0em; background-color: #f6f8fa;]{x20}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 11.5em; background-color: #f6f8fa;]{x69}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 12.0em; background-color: #f6f8fa;]{x73}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 12.5em; background-color: #f6f8fa;]{x20}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 13.0em; background-color: #f6f8fa;]{x62}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 13.5em; background-color: #f6f8fa;]{x69}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 14.0em; background-color: #f6f8fa;]{x74}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 14.5em; background-color: #f6f8fa;]{x63}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 15.0em; background-color: #f6f8fa;]{x68}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 15.5em; background-color: #f6f8fa;]{x6c}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 16.0em; background-color: #f6f8fa;]{x65}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 16.5em; background-color: #f6f8fa;]{x73}}
+{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 1.3; left: 17.0em; background-color: #f6f8fa;]{x73}}
