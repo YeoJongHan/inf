@@ -1,7 +1,7 @@
 ## inf
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/YeoJongHan/inf/main/nicholas.jpg'); font-size:10vm]{xd9e}Humble abode$}
+\ce{$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/YeoJongHan/inf/main/nicholas.jpg'); font-size:10vm]{x20}Humble abode$}
 {$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 0em; font-size:10vm]{x6e}}
 {$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 1em; font-size:10vm]{x69}}
 {$&#x5C;unicode[goombafont; color:blue; pointer-events: none; z-index: 109999; position: fixed; top: 0; left: 2em; font-size:10vm]{x63}}
